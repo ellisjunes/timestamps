@@ -15,7 +15,9 @@
     font-style: normal;
 }
 
-word-wrap: normal|break-word|initial|inherit;
+p.a {
+  word-break: break-all;
+}
 
 .column {
   float: left;
