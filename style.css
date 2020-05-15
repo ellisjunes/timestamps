@@ -21,10 +21,10 @@ p.a {
 
 .column {
   float: left;
-  width: 30%;
+  width: 44%;
     word-wrap: break-word;
 max-width: 600px;
-    margin: 10%;
+    margin: 3%;
 }
 
 
