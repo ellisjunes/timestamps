@@ -22,6 +22,8 @@ p.a {
 .column {
   float: left;
   width: 50%;
+    word-wrap: break-word;
+max-width: 600px;
 }
 
 .image-container {
