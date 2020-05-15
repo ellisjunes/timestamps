@@ -1,1 +1,16 @@
 
+@font-face {
+    font-family: laikas;
+    src: url("../timestamps/laikas-regular-webfont.woff") format('woff');
+    src: url("../timestamps/laikas-regular-webfont.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: font02;
+    src: url("../timestamps/font02-regular-webfont.woff") format('woff');
+    src: url("../timestamps/font02-regular-webfont.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
