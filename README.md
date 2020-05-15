@@ -1,6 +1,1 @@
-# timestamps
-test
-
-# hello
-
-<span style="font-family:Arial">This text is in Arial</span>
+ <img src="pic_trulli.jpg" alt="Italian Trulli">
