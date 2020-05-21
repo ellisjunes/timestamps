@@ -27,7 +27,10 @@ p.a {
     margin: 5%;
 }
 
-
+img {
+  max-width: 100% ;
+  height: auto ;
+} 
 
 .image-container {
   display: flex;
